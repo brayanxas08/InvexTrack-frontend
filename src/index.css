@@ -1,0 +1,27 @@
+/* index.css - Estilos globales de la aplicación InvexTrack */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+:root {
+  --primary: #1B4F8A;
+  --primary-light: #2E75B6;
+  --primary-dark: #14375F;
+  --accent: #E8F0FC;
+  --success: #28a745;
+  --danger: #dc3545;
+  --warning: #ffc107;
+  --text: #333;
+  --text-light: #666;
+  --border: #dee2e6;
+  --white: #ffffff;
+  --sidebar-width: 240px;
+}
