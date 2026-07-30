@@ -325,3 +325,4 @@ El backend de InvexTrack está desarrollado en Java con Spring Boot y expone la 
 1. MySQL corriendo con la base de datos `invextrack_db`
 2. Spring Boot levantado en el puerto `8080`
 3. Clase `CorsConfig.java` configurada para permitir `http://localhost:5173`# InvexTrack-frontend
+# InvexTrack-frontend
