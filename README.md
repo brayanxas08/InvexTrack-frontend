@@ -319,7 +319,7 @@ El proyecto sigue las convenciones estándar de React y JavaScript:
 
 El backend de InvexTrack está desarrollado en Java con Spring Boot y expone la API REST que consume este frontend.
 
-**Repositorio:** https://github.com/yeider04/InvexTrack
+**Repositorio:** (https://github.com/brayanxas08/InvexTrack)
 
 **Requisitos del backend para que el frontend funcione:**
 1. MySQL corriendo con la base de datos `invextrack_db`
