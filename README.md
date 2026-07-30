@@ -46,7 +46,7 @@ Antes de instalar el frontend, asegúrate de tener lo siguiente:
 
 - **API InvexTrack** (backend) corriendo en `http://localhost:8080`  
   El frontend no funcionará si el backend no está activo.  
-  Repositorio del backend: [InvexTrack API](https://github.com/yeider04/InvexTrack)
+  Repositorio del backend: [InvexTrack API](https://github.com/brayanxas08/InvexTrack)
 
 ---
 
@@ -55,8 +55,8 @@ Antes de instalar el frontend, asegúrate de tener lo siguiente:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/yeider04/InvexTrack-Frontend.git
-cd InvexTrack-Frontend
+git clone https://github.com/brayanxas08/InvexTrack-frontend.git
+cd InvexTrack-frontend
 ```
 
 ### 2. Instalar dependencias
@@ -319,7 +319,7 @@ El proyecto sigue las convenciones estándar de React y JavaScript:
 
 El backend de InvexTrack está desarrollado en Java con Spring Boot y expone la API REST que consume este frontend.
 
-**Repositorio:** https://github.com/yeider04/InvexTrack
+**Repositorio:** (https://github.com/brayanxas08/InvexTrack)
 
 **Requisitos del backend para que el frontend funcione:**
 1. MySQL corriendo con la base de datos `invextrack_db`
